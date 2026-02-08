@@ -4,6 +4,7 @@
 Belajar lagi pake github and git. 
 * write markdown file
 * ini contoh commit1
-* ini contoh commit2
+* ini contoh commit2<br>
 Coba commit lagi.
 * Commit3
+* tambah commit terakhir
