@@ -3,4 +3,3 @@
 7 Feb 2026<br>
 Belajar lagi pake github and git. 
 * write markdown file
-* I'll be your pretty pretty please
